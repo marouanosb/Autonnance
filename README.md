@@ -1,2 +1,3 @@
 # Autonnance
-Logiciel de de gestion d'ordonnances médicales.
+Script qui permet de récuperer la liste de médicaments et leurs caractéristiques depuis Doctolib.
+A but de développer un logiciel de création d'ordonnance automatique.
